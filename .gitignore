@@ -6,6 +6,8 @@
 .classpath
 .tern-project
 .settings/
+.idea
+*.iml
 
 # Vagrant
 .vagrant
